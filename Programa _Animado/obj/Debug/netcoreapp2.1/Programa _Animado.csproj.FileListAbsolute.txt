@@ -1,0 +1,11 @@
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.deps.json
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.runtimeconfig.json
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.runtimeconfig.dev.json
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.dll
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.pdb
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.csprojAssemblyReference.cache
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.AssemblyInfo.cs
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.dll
+D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.pdb
