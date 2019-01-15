@@ -7,11 +7,24 @@ namespace Programa__Animado
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(">>>>>>>>> SEJA BEM VINDO AO <<<<<<<<<<<<<<<<< ");
             Console.BackgroundColor = ConsoleColor.Blue;
-            Console.WriteLine("Programa Animado");
+
+            Console.WriteLine(">>>>>>>>> PROGRAMA ANIMADO <<<<<<<<<<<<<<<<<");            
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
+            Console.WriteLine("Aperte uma tecla para continuar!");
+            Console.WriteLine(" ");
+            
             Console.ReadKey();
+            
+
+            Console.WriteLine(">>>>>>>>>>>>>>>>>>>VAMOS COMECAR!!!!<<<<<<<<<<<<<");
+            Console.ReadKey();
+
         }
 
+        
     }
 }

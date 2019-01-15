@@ -9,3 +9,14 @@ D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\De
 D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.AssemblyInfo.cs
 D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.dll
 D:\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.pdb
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.deps.json
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.runtimeconfig.json
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.runtimeconfig.dev.json
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.dll
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\bin\Debug\netcoreapp2.1\Programa _Animado.pdb
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.csprojAssemblyReference.cache
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.csproj.CoreCompileInputs.cache
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.AssemblyInfoInputs.cache
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.AssemblyInfo.cs
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.dll
+C:\Users\Gigame\OneDrive\Projetos\Programa Animado\Programa _Animado\Programa _Animado\obj\Debug\netcoreapp2.1\Programa _Animado.pdb
