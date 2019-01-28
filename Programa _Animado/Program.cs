@@ -6,22 +6,9 @@ namespace Programa__Animado
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(">>>>>>>>> SEJA BEM VINDO AO <<<<<<<<<<<<<<<<< ");
-            Console.BackgroundColor = ConsoleColor.Blue;
-
-            Console.WriteLine(">>>>>>>>> PROGRAMA ANIMADO <<<<<<<<<<<<<<<<<");            
-            Console.WriteLine(" ");
-            Console.WriteLine(" ");
-            Console.WriteLine(" ");
-            Console.WriteLine("Aperte uma tecla para continuar!");
-            Console.WriteLine(" ");
-            
+            Console.Write("ola");
             Console.ReadKey();
-            
 
-            Console.WriteLine(">>>>>>>>>>>>>>>>>>>VAMOS COMECAR!!!!<<<<<<<<<<<<<");
-            Console.ReadKey();
 
         }
 
